@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "AI/ML/Math/Tesla"
+title                    : "Machine Learning, Math, and Tesla"
 title_separator          : "-"
 name                     : "Edward"
-description              : "This is my self-review blog, usually about AI, ML, Math and Tesla"
+description              : "This is my self-review blog, usually about ML, Math and Tesla"
 url                      : "https://inspired-edward.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
