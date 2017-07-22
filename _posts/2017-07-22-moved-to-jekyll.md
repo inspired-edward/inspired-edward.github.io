@@ -1,11 +1,11 @@
 ---
 title: "워드프레스(wordpress)에서 지킬(jekyll)로 이사했습니다"
 author_profile: true
+mathjax: true
 categories:
   - Notes
 tags:
   - Note
-publish: false
 ---
 
 블로그를 많이 하는 편은 아닙니다. 하지만 글을 편하게 쓰기 위해서 많은 블로그를 거쳐 왔던 것 같습니다. **네이버**나 **티스토리**에서 처음 시작을 했었고,
