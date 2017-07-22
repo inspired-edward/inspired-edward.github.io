@@ -1,3 +1,7 @@
+# Edward's Blog
+This blog's theme is 'Minimal Mistakes'. I am going to keep the rest of the original READEME.md for records.
+**[Quick-Start Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)** is the good source of how-to make posts.
+
 # [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/)
 
 [![GitHub release](https://img.shields.io/gem/v/minimal-mistakes-jekyll.svg)](https://github.com/mmistakes/minimal-mistakes/releases) [![GitHub license](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
