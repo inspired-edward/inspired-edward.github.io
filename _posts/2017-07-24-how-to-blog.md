@@ -25,7 +25,7 @@ tags:
 --------------
 
 깃허브 페이지란 자신의 깃허브의 저장소(repository)중에서 `USERNAME.github.io`라는 이름을 가지는 저장소를 말합니다.
-그 이름을 가진 저장소는 웹서비스가 되도록 깃허브에서 설정해준 것이죠.(Thank you)
+그 이름을 가진 저장소는 웹서비스가 되도록 깃허브에서 설정해준 것이죠.(Thank you, Github!)
 예를 들어 깃허브에서 `welcome-example`이란 아이디를 가지고 있다면, `welcome-example.github.io`라는 저장소를 만드는 것만으로 그 안에 있는 파일들이 `https://welcome-example.github.io`라는 주소 아래 서비스됩니다.
 
 정해진 이름으로 저장소를 새로 생성해서 파일을 넣어도 되고, 이미 존재하는 저장소의 이름을 변경해도 상관 없습니다.
