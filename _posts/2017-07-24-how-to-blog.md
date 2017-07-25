@@ -10,7 +10,7 @@ tags:
 ---
 깃허브 페이지와 지킬을 이용한 블로그는 처음에 설정하는 것은 어느정도 시행착오가 필요하지만 일단 설정이 끝나고 나면,
 깃허브 사이트에서 작성하든, 깃허브 클라이언트 프로그램에서 작성을 하든 일단 markdown형태로 글을 작성한 후
-`GITHUB_USERNAME.github.io/_posts/` 디렉토리 안에 넣어주면 새 글이 생성됩니다.
+`USERNAME.github.io/_posts/` 디렉토리 안에 넣어주면 새 글이 생성됩니다.
 
 지금 쓰고 있는 이 글도 [여기](https://raw.githubusercontent.com/inspired-edward/inspired-edward.github.io/master/_posts/2017-07-24-how-to-blog.md)에 쓴 내용이 렌더링되어 나온 것입니다.
 
@@ -40,4 +40,5 @@ tags:
 - 잘 만들어진 지킬(Jekyll) 테마를 찾아 그 테마 소스를 fork(그대로 받아옴)한다
 - 받아온 저장소(repository) 이름을 `USERNAME.github.io`으로 바꾼다
 - 끝.
+- `USERNAME.github.io/_posts/`디렉토리 아래에 markdown형태로 글을 쓴다
 
