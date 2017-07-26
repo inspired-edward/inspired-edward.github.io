@@ -2,6 +2,8 @@
 This blog's theme is 'Minimal Mistakes'. I am going to keep the rest of the original READEME.md for records.
 **[Quick-Start Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)** is the good source of how-to make posts.
 
+As you can expect, the licence of the theme itself is under MIT license, but all the *rights of the posts* is solely on me (Edward Kim): link is ok, copying parts of them with the link of this blog is also ok, but copying without like is prohibited.
+
 # [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/)
 
 [![GitHub release](https://img.shields.io/gem/v/minimal-mistakes-jekyll.svg)](https://github.com/mmistakes/minimal-mistakes/releases) [![GitHub license](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
