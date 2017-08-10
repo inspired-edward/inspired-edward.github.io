@@ -1,4 +1,3 @@
-{% include toc %}
 ---
 title: "깃허브 페이지(Github Page)와 지킬(Jekyll)로 블로그 만들기"
 author_profile: true
@@ -9,6 +8,8 @@ tags:
   - github page
   - blog
 ---
+
+{% include toc %}
 
 요약
 - 깃허브 테마 리스트에서 좋아하는 테마를 골라서
