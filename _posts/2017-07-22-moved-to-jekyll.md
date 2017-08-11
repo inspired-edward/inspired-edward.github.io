@@ -1,6 +1,7 @@
 ---
 title: "워드프레스(wordpress)에서 지킬(jekyll)로 이사했습니다"
 author_profile: true
+comments: true
 mathjax: true
 categories:
   - Notes
