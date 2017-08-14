@@ -108,15 +108,15 @@ markdown 형식을 다 배운 다음에 글 쓰겠다고 마음먹지 마세요.
 1. 아직 안 되어 있다면 [github.com](github.com) 가입
  - 처음 가입하면 기본적인 깃허브(Github)사용법을 Step-by-Step으로 알려줍니다.
 2. 구글 검색을 하거나, 지킬 테마 사이트 [jekyllthemes.org](jekyllthemes.org) 에서 원하는 테마를 Fork
-3. Fort된 저장소(repository)이름을 `USERNAME.github.io` 형태로 변경
+3. Fork된 저장소(repository)이름을 `USERNAME.github.io` 형태로 변경
  - 변경한 즉시 `https://USERNAME.github.io`에 블로그가 서비스 되기 시작합니다.
 4. `/_posts/` 디렉토리 아래에 글 작성
  - 파일 이름 형식은 `YYYY-MM-DD-글제목.확장자`
  - Front Matter로 글의 제목, 레이아웃, 및 그 외 테마에서 지원하는 변수 설정
  - Markdown 형태로 글 쓰기
 
-남은 일 들
---------
+남은 일
+-----
 
 블로그 제목도 정해야 할 것 같고, 구글에 검색도 되어야 할 것 같고... 블로그를 다 만들고 나면 빈 구멍들이 여기저기 보일 겁니다. 기존에 사용하던 블로그 전용 사이트들이 기본 기능을 얼마나 잘 구현해 놓았는지 새삼 느끼게 되죠.
 
