@@ -11,7 +11,7 @@ tags:
 Machine Learning
 ----------------
 
-- 고등학교 조건부 확율에서 끌어오는 Bayes rule
+- 고등학교 조건부 확률에서 끌어오는 Bayes rule
 - Maximum likelihood estimation
 - Maximum a posteriori
 - Linear Regression
