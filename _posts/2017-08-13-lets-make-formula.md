@@ -1,5 +1,5 @@
 ---
-title: "[초등]공식의 탄생"
+title: "[초등] 공식의 탄생"
 author_profile: true
 mathjax: true
 comments: true
