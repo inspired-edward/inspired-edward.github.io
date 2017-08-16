@@ -13,7 +13,7 @@ tags:
 결론적으로
 - 깃허브(GitHub) 테마 리스트에서 좋아하는 테마를 골라서
 - 내 저장소(repository)로 fork(그대로 복사하는 거랑 비슷해요. 자세한 건 다음에)한 후
-- 저장소 이름을 `USERNAME.github.io` 로 변경하면 블로그 만들기 끝.
+- 저장소 이름을 `USERNAME.github.io` 로 변경하면 블로그 만들기 끝
 - `/_posts/` 디렉토리 아래에 markdown형태로 블로그 글 작성
 
 지금 쓰고 있는 이 글도 [여기](https://raw.githubusercontent.com/inspired-edward/inspired-edward.github.io/master/_posts/2017-07-24-how-to-blog.md)에 쓴 내용이 렌더링되어 나온 것입니다.
