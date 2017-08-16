@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "ko"
-title                    : "Machine Learning, Math, and Tesla"
+title                    : "Inspired Edward: Machine Learning, Math, and Tesla"
 title_separator          : "-"
 name                     : "Edward"
 description              : "This is my self-review blog, usually about ML, Math and Tesla"
@@ -242,6 +242,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments:  true
       share: true
       related: true
