@@ -1,5 +1,11 @@
 # main links
 main:
+  - title: "ML"
+    url: /categories/#ml
+  - title: "Math"
+    url: /categories/#math
+  - title: "Tesla"
+    url: /categories/#tesla
   - title: "Tags"
     url: /tags/
   # - title: "Quick-Start Guide"
