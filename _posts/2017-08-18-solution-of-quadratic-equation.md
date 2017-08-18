@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: '[중등] 2차방정식 근의 공식'
 mathjax: true
 comments: true
