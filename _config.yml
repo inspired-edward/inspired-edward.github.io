@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "ko"
-title                    : "Inspired Edward: Machine Learning, Math, and Tesla"
+title                    : "Edward의 잡다지식 저장소"
 title_separator          : "-"
 name                     : "Edward"
 description              : "This is my self-review blog, usually about ML, Math and Tesla"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Edward"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Software Engineer"
+  bio              : "Software Engineer, Data Scientist"
   location         :
   email            :
   uri              :
