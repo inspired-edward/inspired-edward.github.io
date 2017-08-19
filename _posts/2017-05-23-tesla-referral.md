@@ -1,5 +1,5 @@
 ---
-title: '테슬라 추천인 코드 (Tesla Referral Number)'
+title: 테슬라 추천인 코드 (Tesla Referral Number)
 published: true
 comments: true
 categories:
@@ -20,4 +20,4 @@ tags:
 
 [http://ts.la/mikyung151](http://ts.la/mikyung151)
 
-![Tesla Referral Promotion](https://daehwanblog.files.wordpress.com/2017/05/ec8aa4ed81aceba6b0ec83b7-2017-05-22-ec98a4ed9b84-10-32-46.png)
+![Tesla Referral Promotion](https://www.tesla.com/sites/all/themes/custom/tesla_theme/assets/img/referral-signup/hero-referral@2x.jpg?201704271207)
