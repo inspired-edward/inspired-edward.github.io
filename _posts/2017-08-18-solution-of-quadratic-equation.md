@@ -98,6 +98,8 @@ $$ \therefore x = \pm \sqrt{a} $$
 
 $$ x = \pm \sqrt{4} = \pm 2 $$
 
+$$ \therefore x=\pm 2$$
+
 이건 쉽죠? 그럼 이건 어떤가요?
 
 ---
