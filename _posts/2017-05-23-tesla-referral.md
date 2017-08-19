@@ -1,4 +1,5 @@
 ---
+title: '테슬라 추천인 코드 (Tesla Referral Number)'
 published: true
 comments: true
 categories:
