@@ -163,13 +163,14 @@ $$x^2 + 2 \dfrac{b}{2a} x + (\dfrac{b}{2a})^2 = (x + \dfrac{b}{2a})^2$$
 
 $$a(x^2 + \dfrac{b}{a} x) + c = 0$$
 
-$$ a \big( x^2 + 2 \dfrac{b}{2a} x + \big( \dfrac{b}{2a} \big) ^2 - \big( \dfrac{b}{2a} \big) ^2 \big) + c = 0 $$
+$$ a \big\{ x^2 + 2 \dfrac{b}{2a} x + \big( \dfrac{b}{2a} \big) ^2 - \big( \dfrac{b}{2a} \big) ^2 \big\} + c = 0 $$
 
 $$ a \big\{ (x + \dfrac{b}{2a})^2 - (\dfrac{b}{2a})^2 \big\} + c = 0 $$
 
 중괄호 내부의 상수항만 바깥으로 빼 준 후에 계속 진행해 보면
 
 $$ a(x+\dfrac{b}{2a})^2 - \dfrac{b^2}{4a} + c = 0$$
+
 $$ a(x+\dfrac{b}{2a})^2 = \dfrac{b^2}{4a} - c = \dfrac{b^2 - 4ac}{4a} $$
 
 $$a$$가 $$0$$이 아니기 때문에 양변을 $$a$$로 나눌 수 있습니다.
