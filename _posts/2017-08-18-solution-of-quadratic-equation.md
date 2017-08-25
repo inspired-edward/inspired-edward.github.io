@@ -165,4 +165,4 @@ $$a(x^2 + \dfrac{b}{a} x) + c = 0$$
 
 $$ a \big( x^2 + 2 \dfrac{b}{2a} x + \big( \dfrac{b}{2a} \big) ^2 - \big( \dfrac{b}{2a} \big) ^2 \big) + c = 0 $$
 
-$$ a \big( \big{ x + \dfrac{b}{2a} \big}^2 - (\dfrac{b}{2a})^2 \big) + c = 0 $$
+$$ a \big( \big{ x + \dfrac{b}{2a} \big} ^2 - (\dfrac{b}{2a})^2 \big) + c = 0 $$
