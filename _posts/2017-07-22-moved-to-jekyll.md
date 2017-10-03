@@ -1,5 +1,8 @@
 ---
 title: "워드프레스(wordpress)에서 지킬(jekyll)로 이사했습니다"
+header:
+  overlay_image: /assets/images/HeaderImage.png
+  overlay_filter: 0.5
 author_profile: true
 comments: true
 mathjax: true
