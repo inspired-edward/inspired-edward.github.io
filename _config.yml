@@ -245,3 +245,6 @@ defaults:
       comments:  true
       share: true
       related: true
+      header:
+        overlay_image: /assets/images/Header.png
+        overlay_filter: 0.5
