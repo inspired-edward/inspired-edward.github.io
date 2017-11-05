@@ -2,6 +2,9 @@
 title: "깃허브 페이지(GitHub Page)와 지킬(Jekyll)로 블로그 만들기"
 comments: true
 author_profile: true
+toc: true
+toc_label: "이 페이지에는"
+toc_icon: "gear"
 categories:
   - howto
 tags:
@@ -9,7 +12,6 @@ tags:
   - github page
   - blog
 ---
-{% include toc %}
 
 결론적으로
 - 깃허브(GitHub) 테마 리스트에서 좋아하는 테마를 골라서
