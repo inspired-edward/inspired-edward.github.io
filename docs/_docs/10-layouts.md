@@ -7,10 +7,11 @@ single_layout_gallery:
     alt: "single layout with header example"
   - image_path: /assets/images/mm-layout-single-meta.png
     alt: "single layout with comments and related posts"
-last_modified_at: 2017-07-05T15:41:36-04:00
+last_modified_at: 2017-10-26T15:42:42-04:00
+toc: true
+toc_label: "Included Layouts"
+toc_icon: "columns"
 ---
-
-{% include toc icon="columns" title="Included Layouts" %}
 
 The bread and butter of any theme. Below you'll find the layouts included with Minimal Mistakes, what they look like and the type of content they've been built for.
 
@@ -83,6 +84,28 @@ The layout you'll likely use the most --- sidebar and main content combo.
 
 Assign with `layout: single`, or better yet apply as a [Front Matter default]({{ "/docs/configuration/#front-matter-defaults" | absolute_url }}) in `_config.yml`.
 
+### Table of Contents
+
+Auto-generated table of contents list for your posts and pages can be enabled by adding `toc: true` to the YAML Front Matter.
+
+![table of contents example]({{ "/assets/images/mm-toc-helper-example.jpg" | absolute_url }})
+
+| Parameter   | Required | Description | Default |
+| ---------   | -------- | ----------- | ------- |
+| **toc**     | Optional | Show table of contents. (boolean) | `false` |
+| **toc_label** | Optional | Table of contents title. (string) | `toc_label` in UI Text data file. |
+| **toc_icon**  | Optional | Table of contents icon, displays before the title. (string) | [Font Awesome](https://fortawesome.github.io/Font-Awesome/icons/) <i class="fa fa-file-text"></i> **file-text** icon. Any other FA icon can be used instead. |
+
+**TOC example with custom title and icon**
+
+```yaml
+---
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "gear"
+---
+```
+
 ## Archive Layout
 
 Essentially the same as `single` with markup adjustments and some modules removed.
@@ -101,7 +124,7 @@ Essentially the same as `single` with markup adjustments and some modules remove
 Below are sample archive pages you can easily drop into your project, taking care to rename `permalink`, `title`, or the filename to fit your site. Each is 100% compatible with GitHub Pages.
 
 * [All Posts Grouped by Category -- List View][posts-categories]
-* [All Posts Grouped by Tags -- List View][posts-tags]
+* [All Posts Grouped by Tag -- List View][posts-tags]
 * [All Posts Grouped by Year -- List View][posts-year]
 * [All Posts Grouped by Collection -- List View][posts-collection]
 * [Portfolio Collection -- Grid View][portfolio-collection]
@@ -179,7 +202,7 @@ The **Tags Archive** page that responds to urls such as `/tags/#tips` looks some
 ---
 layout: archive
 permalink: /tags/
-title: "Posts by Tags"
+title: "Posts by Tag"
 author_profile: true
 ---
 
@@ -273,6 +296,14 @@ header:
   image: http://some-site.com/assets/images/image.jpg
 ```
 
+To provide a custom alt tag for screen readers:
+
+```yaml
+header:
+  image: /assets/images/unsplash-image-1.jpg
+  image_description: "A description of the image"
+```
+
 To include a caption or attribution for the image:
 
 ```yaml
@@ -348,6 +379,19 @@ header:
   cta_label: "More Info"
   cta_url: "https://unsplash.com"
 ```
+
+### OpenGraph & Twitter Card Images
+
+By default the large page header or overlay images are used for sharing previews. If you'd like to set this image to something else use `page.header.og_image` like:
+
+```yaml
+header:
+  image: /assets/images/your-page-image.jpg
+  og_image: /assets/images/your-og-image.jpg
+```
+
+**ProTip:** `og_image` is useful for setting OpenGraph images on pages that don't have a header or overlay image.
+{: .notice--info}
 
 ---
 
