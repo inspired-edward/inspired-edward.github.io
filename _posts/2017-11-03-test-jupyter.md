@@ -11,9 +11,10 @@ Colaboratory is a data analysis tool that **combines** text, code, and code outp
 |   |  22 | 56  |   |   |
 |   a|b   |d   |   |   |
 |   |   |   |   |   |
+
 [link](#)
 
-$a+b$
+$$a+b$$
 
 
 
@@ -33,7 +34,7 @@ print 'Hello, Colaboratory!'
 
 Colaboratory allows you to execute TensorFlow code in your browser with a single click. The example below adds two matrices.
 
-$\begin{bmatrix}
+$$\begin{bmatrix}
   1. & 1. & 1. \\
   1. & 1. & 1. \\
 \end{bmatrix} +
@@ -44,7 +45,7 @@ $\begin{bmatrix}
 \begin{bmatrix}
   2. & 3. & 4. \\
   5. & 6. & 7. \\
-\end{bmatrix}$
+\end{bmatrix}$$
 
 
 ```python
