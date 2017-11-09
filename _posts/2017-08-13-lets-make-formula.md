@@ -1,8 +1,7 @@
 ---
 title: "[초등] 공식의 탄생"
-author_profile: true
+excerpt: "공식이란 게 특별한 것이 아니죠. 초등학교 수준에서 어떻게 공식이 만들어지는 지 한 번 볼까요?"
 mathjax: true
-comments: true
 categories:
   - math
 tags:

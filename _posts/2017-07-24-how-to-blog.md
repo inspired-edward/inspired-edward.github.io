@@ -1,7 +1,6 @@
 ---
 title: "깃허브 페이지(GitHub Page)와 지킬(Jekyll)로 블로그 만들기"
-comments: true
-author_profile: true
+excerpt: "한 번 따라가 봅시다."
 toc: true
 toc_label: "이 페이지에는"
 toc_icon: "gear"

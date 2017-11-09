@@ -1,6 +1,7 @@
 ---
 published: true
 title: '[중등] 2차방정식 근의 공식'
+excerpt: "노래로도 외우는 2차 방정식의 근의 공식. 하지만 마냥 외우라고 만들어진 건 아니겠죠. 어떻게 만들어졌는지 따라가 봅시다."
 mathjax: true
 comments: true
 categories:
