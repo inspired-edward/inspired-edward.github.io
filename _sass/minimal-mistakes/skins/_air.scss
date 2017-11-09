@@ -12,8 +12,8 @@ $footer-background-color: $primary-color !default;
 // $link-color: #393e46 !default;
 $link-color: mix(#000, $primary-color, 40%) !default;
 $link-color-hover: $primary-color !default;
-$masthead-link-color: mix(#000, $primary-color, 20%) !default;
-$masthead-link-color-hover: $primary-color !default;
+$masthead-link-color: $primary-color !default;
+$masthead-link-color-hover: mix(#fff, $primary-color, 20%) !default;
 $navicon-link-color-hover: mix(#fff, $primary-color, 80%) !default;
 
 .page__footer {
