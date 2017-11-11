@@ -1,6 +1,6 @@
 ---
 title: "미분... 아 미분"
-author_profile: true
+excerpt: ''
 mathjax: true
 categories:
   - math
