@@ -39,10 +39,10 @@ $("script[type='math/tex; mode=display']").replaceWith(
 </script>
 <script src="https://cdn.jsdelivr.net/npm/katex@0.10.0-rc.1/dist/contrib/auto-render.min.js" integrity="sha384-yACMu8JWxKzSp/C1YV86pzGiQ/l1YUfE8oPuahJQxzehAjEt2GiQuy/BIvl9KyeF" crossorigin="anonymous"></script>
 <script type="text/javascript">
-  renderMathInElement(document.getElementById("main"), [
+  renderMathInElement(document.getElementById("main"), {delimiters: [
     {left: "$$", right: "$$", display: true},
     {left: "$", right: "$", display: false}
-  ]);
+  ]});
 </script>
 {% endif %}
 {% if page.mathjax %}
