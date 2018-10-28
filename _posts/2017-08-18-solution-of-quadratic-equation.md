@@ -2,7 +2,8 @@
 published: true
 title: '[중등] 2차방정식 근의 공식'
 excerpt: "노래로도 외우는 2차 방정식의 근의 공식. 하지만 마냥 외우라고 만들어진 건 아니겠죠. 어떻게 만들어졌는지 따라가 봅시다."
-mathjax: true
+mathjax: false
+latex: true
 comments: true
 categories:
   - math
@@ -183,3 +184,6 @@ $$x+\dfrac{b}{2a} = \pm \dfrac{\sqrt{b^2 - 4ac}}{2a}$$
 $$x = - \dfrac{b}{2a} \pm \dfrac{\sqrt{b^2 - 4ac}}{2a} = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
 
 증명 끝. 한번 손으로 한번만 써 가면서 따라가 봅시다.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTcwMTI3NDA3MV19
+-->
