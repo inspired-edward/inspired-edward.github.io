@@ -12,8 +12,8 @@ tags:
   - proof
 ---
 2차 방정식의 해(혹은 근)을 구하는 방법은 크게 두 가지입니다.
-- 인수분해를 잘 해서 $$(ax-b)(cx-d) = 0$$ 형태로 만든 후 $$ax-b=0$$ 혹은 $$cx-d=0$$에서 답을 얻는 방법
-- 제곱꼴 $$(x-b)^2 = c$$ 로 만들어서 $$x-b = \pm \sqrt{c}$$ 에서 답을 얻는 방법
+- 인수분해를 잘 해서 $(ax-b)(cx-d) = 0$ 형태로 만든 후 $ax-b=0$ 혹은 $cx-d=0$에서 답을 얻는 방법
+- 제곱꼴 $(x-b)^2 = c$ 로 만들어서 $x-b = \pm \sqrt{c}$ 에서 답을 얻는 방법
 
 둘 중에 근의 공식은 두 번째에서 유도합니다.
 
@@ -89,7 +89,7 @@ $$ \therefore x=\dfrac{17}{2},-13$$
 
 > $$x^2 = a$$
 
-여기서 만약 $$x$$를 구하라고 한다면?  
+여기서 만약 $x$를 구하라고 한다면?  
 헛갈리지 마세요. 윗 식에서 $$x$$는 **제곱을 해서 $$a$$가 되는 수**입니다.~~제곱을 해서 a가 되는 수 중에 양수가 아니에요~~ $$\sqrt{a}$$의 뜻이 **제곱을 해서 $$a$$가 되는 수 중에 양수**이므로, $$x$$는 그런 숫자 하나랑 그 반대부호를 가지는 숫자 하나를 가져야 하겠죠
 
 $$ \therefore x = \pm \sqrt{a} $$
@@ -185,5 +185,6 @@ $$x = - \dfrac{b}{2a} \pm \dfrac{\sqrt{b^2 - 4ac}}{2a} = \dfrac{-b \pm \sqrt{b^2
 
 증명 끝. 한번 손으로 한번만 써 가면서 따라가 봅시다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODcwNTU0NjYsMTcwMTI3NDA3MV19
+eyJoaXN0b3J5IjpbLTEwMjUyNDQ0MTYsLTEwODcwNTU0NjYsMT
+cwMTI3NDA3MV19
 -->
