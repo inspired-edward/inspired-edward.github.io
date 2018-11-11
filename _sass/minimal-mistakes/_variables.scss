@@ -14,8 +14,10 @@ $indent-var                   : 1.3em !default;
 
 /* system typefaces */
 $serif                        : Georgia, Times, serif !default;
-$sans-serif                   : -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
-$monospace                    : Monaco, Consolas, "Lucida Console", monospace !default;
+// $sans-serif                   : -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+$sans-serif                   : open sans,arial,apple sd gothic neo,noto sans cjk kr,본고딕,kopubdotum medium,나눔바른고딕,나눔고딕,nanumgothic,맑은고딕,malgun gothic,sans-serif !default;
+// $monospace                    : Monaco, Consolas, "Lucida Console", monospace !default;
+$monospace                    : SFMono-Regular,Consolas,Liberation Mono,Menlo,Courier,monospace !default;
 
 /* sans serif typefaces */
 $sans-serif-narrow            : $sans-serif !default;
