@@ -1,13 +1,15 @@
 # main links
 main:
-  - title: "ML"
-    url: /categories/#ml
   - title: "Math"
     url: /categories/#math
+  - title: "ML"
+    url: /categories/#ml
   - title: "Tesla"
     url: /categories/#tesla
   - title: "Tags"
     url: /tags/
+  - title: "About"
+    url: /about/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
