@@ -23,3 +23,12 @@ $navicon-link-color-hover: mix(#fff, $primary-color, 80%) !default;
 .page__footer-follow .social-icons .fa {
   color: inherit;
 }
+
+.page__content del {
+  color: gray
+}
+
+.page_content a {
+  color: #0275d8
+  text-decoration: none;
+}
