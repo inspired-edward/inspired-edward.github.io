@@ -48,8 +48,8 @@ Markdown도 아마 그런 역할을 하지 않을까 기대를 합니다. 아직
 
 글을 쓰고 그 프로그램을 돌리고 다시 게시판에 붙여넣던 시절과 비교하니 ~~(십수 년이 지나도 세상이 안 바뀌었다 할 수도 있겠지만)~~ 그냥 repository에 markdown으로 만든 텍스트 파일 하나만 push하고 나면 웹에 글이 하나가 딱 하고 생기니, 훨씬 나아진 것 아니겠습니까? 게다가 수식입력도 
 $$\LaTeX$$으로 그냥 되니 말입니다.
-$20달러를 쓰고 다시$50달러 쓰기. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxOTUzNDY4NiwtMTc4NzQyNjIyLDM1OT
-k3NjcwNiwtMTU4OTcxODAxNCwtNjg1MTcxMzQxXX0=
+eyJoaXN0b3J5IjpbLTExMzU2MDgyNzksLTQxOTUzNDY4NiwtMT
+c4NzQyNjIyLDM1OTk3NjcwNiwtMTU4OTcxODAxNCwtNjg1MTcx
+MzQxXX0=
 -->
