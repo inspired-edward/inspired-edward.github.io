@@ -3,6 +3,7 @@ title: 테슬라 추천인 코드 (Tesla Referral Number)
 excerpt: "이 글은 이전 블로그에서 옮겨온 것입니다. 이전 블로그에서 글을 작성한 날짜로 설정되어 있습니다."
 published: true
 comments: true
+katex: true
 categories:
   - tesla
 tags:
